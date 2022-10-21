@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ambrose Otundo</h1>
 <h3 align="center">A passionate developer developer from Kenya</h3>
-<p align="left"> <a href="https://twitter.com/@ambrosemainz" target="_blank"><img src="https://img.shields.io/twitter/follow/@ambrosemainz?logo=twitter&style=for-the-badge" alt="@ambrosemainz" /></a> </p>
+
 
 - 🔭 I’m currently working on **Backend Django**
 
