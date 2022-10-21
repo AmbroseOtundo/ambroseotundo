@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/ambroseotundo](https://dev.to/ambroseotundo)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Python**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python and Django**
 
 - 📫 How to reach me **ambrose@hi2.in**
 
