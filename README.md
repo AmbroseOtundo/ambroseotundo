@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer developer from Kenya</h3>
 
 
-- 🔭 I’m currently working on **Backend Django**
+- 🔭 I’m currently working on **Open AI GPT_3**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Fast API**
 
 - 📝 I regularly write articles on [https://dev.to/ambroseotundo](https://dev.to/ambroseotundo)
 
